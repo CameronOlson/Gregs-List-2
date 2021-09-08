@@ -1,0 +1,8 @@
+.tall{
+    min-height: 12rem;
+}
+
+.house-picture{
+    height: 12rem;
+    border-radius: 5% 5% 0% 0%;
+}
